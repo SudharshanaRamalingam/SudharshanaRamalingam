@@ -22,13 +22,14 @@ I specialize in creating 🎯insightful dashboards 📊 and extracting meaningfu
 * 📗 MS Excel - Google Sheets
 * GitHub
 #### What I Bring to the Table:
-*💻 Advanced Data Analysis: Expertise in Python, SQL, and Tableau to handle large datasets, perform in-depth analysis, and create meaningful dashboards.
-*🛠 Customer-Centric Problem Solving: Experience working with customers and addressing recurring issues in web applications, ensuring smooth user experiences.
-*🤝 Collaboration with Stakeholders: Partnering with managers, stakeholders, and cross-functional teams to provide data-driven insights that support customer satisfaction and business outcomes.
-*📊 Data-Driven Solutions: Analyzing customer feedback and app performance data to proactively identify trends, reduce issues, and improve product offerings.
+* 💻 Advanced Data Analysis: Expertise in Python, SQL, and Tableau to handle large datasets, perform in-depth analysis, and create meaningful dashboards.
+* 🛠 Customer-Centric Problem Solving: Experience working with customers and addressing recurring issues in web applications, ensuring smooth user experiences.
+* 🤝 Collaboration with Stakeholders: Partnering with managers, stakeholders, and cross-functional teams to provide data-driven insights that support customer satisfaction and business outcomes.
+* 📊 Data-Driven Solutions: Analyzing customer feedback and app performance data to proactively identify trends, reduce issues, and improve product offerings.
 
 I am actively seeking new Data Analyst opportunities where I can apply my skills to contribute to the success of innovative teams while ensuring customer-focused results. Let’s connect!
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SudharshanaRamalingam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudharshana-ramalingam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/sudharshana.ramalingam/vizzes)  
 
 
 
